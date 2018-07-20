@@ -1,2 +1,0 @@
-# siakad-demo
-demo siakad 
